@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Myles!
-- I was previously involved in the AEC sector.
-- I'm about to embark on a coding bootcamp run by Coder Academy designed for Web Developers! With a goal to become a junior software engineer.
+# Hi I'm Myles 👋
 
-<!---
-MylesTaylor5/MylesTaylor5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMiloMT%2F&label=Visitors&countColor=%23263759)
+
+## 🔧 Technologies & Tools
+
+**Programming Languages:**
+
+![Static Badge](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ECD53F)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+
+**Tools and Services:**
+
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
