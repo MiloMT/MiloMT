@@ -1,12 +1,3 @@
 # Hi I'm Myles 👋
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMiloMT%2F&label=Visitors&countColor=%23263759)
-
-## 🔧 Technologies & Tools
-
-**Programming Languages:**
-
-![Static Badge](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ECD53F)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-
-**Tools and Services:**
+I'm an enthusiastic and results-driven junior web developer with a strong academic background and a passion for creating functional and engaging web applications. Proficient in HTML, CSS, JavaScript and Python, with a growing understanding of React and Node JS and a keen eye for clean and efficient code. Eager to contribute meaningfully to both new and existing projects.
